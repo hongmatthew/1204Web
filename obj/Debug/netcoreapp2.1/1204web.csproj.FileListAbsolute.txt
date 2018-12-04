@@ -1,0 +1,14 @@
+C:\WebAPI2\1204web\bin\Debug\netcoreapp2.1\1204web.deps.json
+C:\WebAPI2\1204web\bin\Debug\netcoreapp2.1\1204web.runtimeconfig.json
+C:\WebAPI2\1204web\bin\Debug\netcoreapp2.1\1204web.runtimeconfig.dev.json
+C:\WebAPI2\1204web\bin\Debug\netcoreapp2.1\1204web.dll
+C:\WebAPI2\1204web\bin\Debug\netcoreapp2.1\1204web.pdb
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.csprojAssemblyReference.cache
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.csproj.CoreCompileInputs.cache
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.RazorAssemblyInfo.cache
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.RazorAssemblyInfo.cs
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.AssemblyInfoInputs.cache
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.AssemblyInfo.cs
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.RazorTargetAssemblyInfo.cache
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.dll
+C:\WebAPI2\1204web\obj\Debug\netcoreapp2.1\1204web.pdb
